@@ -1,0 +1,39 @@
+/*.row {
+    gap: 5%;
+    margin: 2%;    
+}
+
+.col, .col-3 {
+    padding: 5vh;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 5vh;
+}
+
+.tbox {
+    background-color: white;
+    margin: 5%;
+    padding: 20%;
+    text-align: center;
+}*/
+
+#yellow {
+    background-color: yellow;
+}
+
+#red {
+    background-color: red;
+}
+
+#green {
+    background-color: green;
+}
+
+#orange {
+    background-color: orange;
+}
+
+#blue {
+    background-color: blue;
+}
