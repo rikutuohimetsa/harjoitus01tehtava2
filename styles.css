@@ -17,3 +17,13 @@
 #blue {
     background-color: blue;
 }
+
+* {
+    font-size: x-large;
+}
+
+@media only screen and (min-width: 992px) {
+    * {
+        font-size: medium;
+    }
+}
